@@ -5,4 +5,4 @@ draft: false
 ---
 
 Welcome sa Kaliskis na Ulap!
-This is a test
+This is a test.
