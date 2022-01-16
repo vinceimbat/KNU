@@ -16,7 +16,3 @@ May apat na beses pa niyang ilalarawan ang "kaliskis na ulap" sa kaniyang talaar
 Ganito si Thoreau. Tumitingin sa mundo. Isinusulat ang nakita niya sa talaarawan niya. At tumitingin muli.
 
 Ang website na ito ay kanlungan ng mga nakita at nabatid ni Thoreau.
-
-{{< button href="Tungkol-sa-KNU" >}}
-Tungkol sa Kaliskis na Ulap
-{{< /button >}}
