@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Tungkol sa KNU"
-  url = "https://kaliskisnaulap.com/Tungkol-sa-KNU"
+  pageRef = "Tungkol-sa-KNU.md"
   weight = 10
 
 [[main]]
@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Makipag-ugnayan"
-  pageRef = "Makipag-ugnayan"
+  pageRef = "Makipag-ugnayan.md"
   weight = 30
 
 
