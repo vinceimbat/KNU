@@ -3,11 +3,9 @@ title: "Noon Hulyo 5, 1952..."
 date: 2022-01-16T12:23:33+08:00
 draft: false
 ---
-![mackerel sky](uploads/mackerel-sky-andrew-fogg.jpg "Mackerel Sky") |
+![mackerel sky](uploads/mackerel-sky-andrew-fogg.jpg "Mackerel Sky")
 
-<p align = "center">
-*Kuha ni Andrew Fogg*
-</p>
+<p align = "center"><em>Kuha ni Andrew Fogg</em></p>
 
 Isinulat ni Henry David Thoreau ang sumusunod sa talaarawan niya:
 
