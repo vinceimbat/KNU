@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Tungkol sa KNU"
-  pageRef = "Tungkol-sa-KNU.md"
+  pageRef = "Tungkol-sa-KNU"
   weight = 10
 
 [[main]]
@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Makipag-ugnayan"
-  pageRef = "Makipag-ugnayan.md"
+  pageRef = "Makipag-ugnayan"
   weight = 30
 
 
