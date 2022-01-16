@@ -17,6 +17,6 @@ Ganito si Thoreau. Tumitingin sa mundo. Isinusulat ang nakita niya sa talaarawan
 
 Ang website na ito ay kanlungan ng mga nakita at nabatid ni Thoreau.
 
-{{< button href="Tungkol-sa-KNU" target="_self" >}}
+{{< button href="Tungkol-sa-KNU" >}}
 Tungkol sa Kaliskis na Ulap
 {{< /button >}}
