@@ -1,4 +1,4 @@
-module KNU
+module my-project
 
 go 1.17
 

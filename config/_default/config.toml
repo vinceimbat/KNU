@@ -6,9 +6,8 @@ baseURL = "https://kaliskisnaulap.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Kaliskis na Ulap"
-
-copyright = "© 2022 Kaliskis na Ulap"
+title = "KALISKIS NA ULAP"
+# copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 enableRobotsTXT = true
@@ -16,9 +15,9 @@ enableRobotsTXT = true
 summaryLength = 0
 
 [author]
-  # name = "Vince Imbat"
+  # name = "Your name here"
   # image = "img/author.jpg"
-  # bio = "Naglalakad na manunulat."
+  # bio = "A little bit about you"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },

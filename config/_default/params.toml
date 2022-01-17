@@ -8,7 +8,7 @@
 colorScheme = "congo"
 darkMode = "auto"
 # darkToggle = false
-# logo = "KNU-logo.png"
+# logo = "img/logo.jpg"
 description = "Laman ng website na ito ang mga sulat ni Henry David Thoreau na isinalin sa Filipino."
 # mainSections = ["section1", "section2"]
 # robots = ""
@@ -21,12 +21,12 @@ description = "Laman ng website na ito ang mga sulat ni Henry David Thoreau na i
   showDate = false
   dateFormat = "2 January 2006"
   showAuthor = false
-  showBreadcrumbs = true
+  showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
-  showHeadingAnchors = true
+  editAppendPath = false
+  showHeadingAnchors = false
   showPagination = false
   showReadingTime = false
   showWordCount = false
@@ -35,10 +35,10 @@ description = "Laman ng website na ito ang mga sulat ni Henry David Thoreau na i
 [list]
   showBreadcrumbs = false
   showSummary = false
-  groupByYear = true
+  groupByYear = false
 
 [taxonomy]
-  showTermCount = true
+  showTermCount = false
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
