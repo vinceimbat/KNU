@@ -8,7 +8,7 @@
 colorScheme = "congo"
 darkMode = "auto"
 # darkToggle = false
-# logo = "img/logo.jpg"
+logo = "KNU-logo.png"
 description = "Laman ng website na ito ang mga sulat ni Henry David Thoreau na isinalin sa Filipino."
 # mainSections = ["section1", "section2"]
 # robots = ""
